@@ -18,7 +18,7 @@ This project is a browser-based calculator that performs basic arithmetic operat
    - **HTML File**: Create an `h.html` file containing the calculator structure.
    - **CSS File**: Create a `s.css` file for styling the calculator.
    - **JavaScript File**: Create a `s.js` file for handling the logic.
-2. Open `index.html` in any modern web browser to start using the calculator.
+2. Open `h.html` in any modern web browser to start using the calculator.
 
 ## Technologies Used
 - **HTML**: For structuring the calculator interface.
