@@ -15,9 +15,9 @@ This project is a browser-based calculator that performs basic arithmetic operat
 
 ## How to Run the Project
 1. Save the following files in a directory:
-   - **HTML File**: Create an `index.html` file containing the calculator structure.
-   - **CSS File**: Create a `styles.css` file for styling the calculator.
-   - **JavaScript File**: Create a `scripts.js` file for handling the logic.
+   - **HTML File**: Create an `h.html` file containing the calculator structure.
+   - **CSS File**: Create a `s.css` file for styling the calculator.
+   - **JavaScript File**: Create a `s.js` file for handling the logic.
 2. Open `index.html` in any modern web browser to start using the calculator.
 
 ## Technologies Used
