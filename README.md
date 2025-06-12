@@ -4,6 +4,10 @@
 This project is a browser-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It is designed to be intuitive, responsive, and feature-rich, meeting all the functionality expected from a basic calculator. Additional features include error handling, keyboard support, and support for floating-point numbers.
 
 
+## User Interface
+![user interface of calculator app](image.png)
+
+
 ## Features
 - **Basic Arithmetic**: Supports addition, subtraction, multiplication, and division.
 - **Chained Operations**: Handles sequential calculations without resetting the display.
