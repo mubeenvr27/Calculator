@@ -5,7 +5,7 @@ This project is a browser-based calculator that performs basic arithmetic operat
 
 
 ## User Interface
-![user interface of calculator app](image.png)
+![user interface of calculator app](img.png)
 
 
 ## Features
